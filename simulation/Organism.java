@@ -1,5 +1,5 @@
 package simulation;
 
-public class Organism {
+public abstract class Organism {
   
 }
